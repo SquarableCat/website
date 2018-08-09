@@ -1,0 +1,53 @@
+# See https://github.com/nicksnyder/go-i18n for format documentation and some tools.
+
+[home_hero_title]
+other = "Let&rsquo;s Encrypt는 <span>무료이며</span>, <span>자동화 가능한</span> <span>오픈소스</span> 인증 기관입니다."
+
+[home_hero_getting_started]
+other = "시작하기"
+
+[home_hero_donate]
+other = "기부"
+
+[home_major_sponsors]
+other = "주요 후원자 및 기부자"
+
+[home_from_our_blog]
+other = "Let's Encrypt 블로그에서"
+
+[read_more]
+other = "자세히 보기"
+
+[subscribe_rss]
+other = "<a href=\"{{ .Permalink }}\"> RSS 구독</a>"
+
+[footer_support_us]
+other = "보다 안전하고 개인정보 보호를 위한 웹 지원"
+
+[footer_donate]
+other = "기부"
+
+[footer_policies]
+other = """
+View our <a href="/privacy/">개인정보처리방침</a>.<br>
+View our <a href="/trademarks/">등록 상표 방침</a>.
+"""
+
+[linux_foundation_trademark]
+other = "Linux Foundation은 Linux Foundation의 등록 상표입니다. Linux는 Linus Torvalds의 등록 상표입니다."
+
+[header_skip_nav]
+other = "네비게이션 메뉴 건너뛰기"
+
+[last_updated]
+other = "최근 업데이트:"
+
+[see_all_doc]
+other = "모든 문서 보기"
+
+[blog_feed]
+other = "Let's Encrypt 블로그 피드"
+
+
+[languages]
+other = "언어"
